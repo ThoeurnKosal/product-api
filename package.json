@@ -1,0 +1,19 @@
+{
+  "name": "rest-shop-api",
+  "version": "1.0.0",
+  "description": "build a simple rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "shop",
+    "api"
+  ],
+  "author": "Thoeurn Kosal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
